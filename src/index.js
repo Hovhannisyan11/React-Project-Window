@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './Modal(Window)/App';
+import App from './Quiz(test)/App';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
